@@ -82,3 +82,5 @@ print("last column:\n", b[:, 4])
 print("top-left 3x4: \n", b[0:3, 0:4])
 print(b, "every-other row: \n", b[::2, :])
 print("every-other column: \n", b[:, ::2])
+
+
